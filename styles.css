@@ -1,0 +1,30 @@
+body {
+    background-color: #1e3a8a;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    color: #1e293b;
+    max-width: 700px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 50px auto;
+    padding: 10px 40px 30px 40px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+img {
+    display: block;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin: 50px auto 20px auto;
+    transition: transform 1s;
+}
+
+img:hover {
+    transform: rotate(360deg) scale(0.5);
+}

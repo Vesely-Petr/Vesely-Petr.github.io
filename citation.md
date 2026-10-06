@@ -18,7 +18,7 @@ dej tam jen ten projekt 1 coz je vpn vymaz uplne ten malwarebytes
 ## 3. prompt
 
 ```text
-udelej ze ti to neukaze projkety, dokud nekliknes na moje projekty
+udelej ze ti to neukaze projekty, dokud nekliknes na moje projekty
 ```
 
 ## 4. prompt
@@ -38,13 +38,7 @@ ne, tohle se mi nelibi, predelej to nejak, ted tam je velka mezera
 ## 6. prompt
 
 ```text
-jak to ze to tak sviti, kde to je
-```
-
-## 7. prompt
-
-```text
-do zdroje pridej odkaz na ten citation.md jenom, je tam ten prompt, a vymaz ten glow pls
+do zdroje pridej odkaz na ten citation.md jenom, je tam ten prompt, a vymaz ten glow
 ```
 
 ## Model: Opus 5.5 Max // Anthropic.ai

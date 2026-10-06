@@ -327,14 +327,9 @@ h2 i {
 
 /* ---------- ZDROJE ---------- */
 
+/* Jen odkaz na citation.md, zarovnaný na střed */
 .sources {
-    max-width: 700px;
-    margin: 0 auto;
-    color: #94a3b8;
-}
-
-.sources li {
-    margin-bottom: 8px;
+    text-align: center;
 }
 
 
